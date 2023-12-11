@@ -50,7 +50,7 @@
 	<a href="cosinegraph@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/JAVA-0cb15972325247249dea5d41cc3a1628">
+	<a href="https://www.notion.so/dd1a509db1604ead9f7e8eaa1e4a3d0b?v=155c5e69e2784f3f9978b37e688a5ca0">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>

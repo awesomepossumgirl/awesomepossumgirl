@@ -65,7 +65,7 @@
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awesomepossumgirl1)](https://solved.ac/awesomepossumgirl1)
 </div>
 <br>
 

@@ -44,7 +44,7 @@
 	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="https://yermi.tistory.com">
+	<a href="https://kin.naver.com/profile/index.naver?u=eqpeRcAiMURRkE5zNOTm%2BXXnpeokqihCdmSU9RA51EA%3D">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="cosinegraph@naver.com">

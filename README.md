@@ -41,7 +41,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr">
+	<a href="">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://kin.naver.com/profile/index.naver?u=eqpeRcAiMURRkE5zNOTm%2BXXnpeokqihCdmSU9RA51EA%3D">

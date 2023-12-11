@@ -60,7 +60,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomepossumgirl&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=awesomepossumgirl&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl1)
+![Dain's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>

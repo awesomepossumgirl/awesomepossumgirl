@@ -1,41 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dain%20Github!&fontSize=90" />	
 </div>
-
-<div align=center>
-### Hi there 👋
-<br>
-
-🚀 Full-stack wizard by day, caffeine-powered code machine by night! ☕️
-
-👨‍💻 Breaking keyboards and fixing bugs since '23.
-
-💡 Fluent in Java, Python, JavaScript, and sarcasm. Proficient in turning coffee into code.
-
-🎮 When not coding, you'll find me in the gaming realm, defeating dragons.
-
-🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
-
-🎸 Aspiring rockstar developer, coding to the rhythm of 'git commit -m "Rock On!"'.
-
-💬 Let's turn coffee into code, errors into lessons, and meetings into memes! 😄
-
-<!--
-**awesomepossumgirl/awesomepossumgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</div>
-
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -104,6 +69,37 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awesomepossumgirl1)](https://solved.ac/awesomepossumgirl1)
 </div>
 <br>
+<div align=center>
+### Hi there 👋
+<br>
+
+🚀 Full-stack wizard by day, caffeine-powered code machine by night! ☕️
+
+👨‍💻 Breaking keyboards and fixing bugs since '23.
+
+💡 Fluent in Java, Python, JavaScript, and sarcasm. Proficient in turning coffee into code.
+
+🎮 When not coding, you'll find me in the gaming realm, defeating dragons.
+
+🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
+
+💬 Let's turn coffee into code, errors into lessons, and meetings into memes! 😄
+
+<!--
+**awesomepossumgirl/awesomepossumgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+</div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 

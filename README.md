@@ -69,7 +69,7 @@
 </div>
 <br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 ### Hi there 👋

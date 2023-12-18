@@ -58,6 +58,11 @@
 	</a>
 	<br>
 </div>
+
+<br>
+<div align=center>
+	<p>👉🏻 GitHub Stats 👈🏻</p>
+</div>
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomepossumgirl&layout=compact">

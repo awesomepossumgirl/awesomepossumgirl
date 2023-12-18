@@ -70,8 +70,7 @@
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awesomepossumgirl1)](https://solved.ac/awesomepossumgirl1)
 </div>
-<br>
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 <br>
 <div align=center>
 
@@ -86,6 +85,8 @@
 🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
 
 💬 Let's turn coffee into code, errors into lessons, and meetings into memes! 😄
+
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **awesomepossumgirl/awesomepossumgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

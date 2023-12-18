@@ -4,7 +4,7 @@
 <div align=center>
 	<h3>🧙 Tech Stack 🧙</h3>
 	<br>
-	<p>✨ Languages & Libraries ✨</p>
+	<p>✨ Languages & Platforms ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" />

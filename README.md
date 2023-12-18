@@ -53,9 +53,6 @@
 	<a href="https://kin.naver.com/profile/index.naver?u=eqpeRcAiMURRkE5zNOTm%2BXXnpeokqihCdmSU9RA51EA%3D">
 		<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
 	</a>
-	<a href="cosinegraph@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
-	</a>
 	<a href="https://www.notion.so/dd1a509db1604ead9f7e8eaa1e4a3d0b?v=155c5e69e2784f3f9978b37e688a5ca0">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>

@@ -87,14 +87,6 @@
 
 💬 Let's turn coffee into code, errors into lessons, and meetings into memes! 😄
 
- - TOEIC 955
- - OPIC AL
- - SQL-Developer
- - 정보처리기사
- - 컴퓨터활용능력 2급
- - 워드프로세서 단일등급
- - Linux Master
-
 <!--
 **awesomepossumgirl/awesomepossumgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -108,6 +100,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ - TOEIC 955
+ - OPIC AL
+ - SQL-Developer
+ - 정보처리기사
+ - 컴퓨터활용능력 2급
+ - 워드프로세서 단일등급
+ - Linux Master
+
 -->
 </div>
 

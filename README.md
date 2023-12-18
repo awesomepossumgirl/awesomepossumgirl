@@ -65,7 +65,7 @@
 <br>
 
 <div align=center>
-	<p>👉🏻 GitHub Stats 👈🏻</p>
+	<p>💀 GitHub Stats 💀</p>
 </div>
 <div align=center>
 	<br>

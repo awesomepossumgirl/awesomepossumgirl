@@ -3,6 +3,7 @@
 </div>
 <div align=center>
 	<h3>🧙 Tech Stack 🧙</h3>
+	<br>
 	<p>✨ Languages & Platforms ✨</p>
 </div>
 <div align="center">
@@ -25,7 +26,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🍭 Tools 🍭</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />

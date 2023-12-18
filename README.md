@@ -71,9 +71,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awesomepossumgirl1)](https://solved.ac/awesomepossumgirl1)
 </div>
 <br>
-<div align=center>
-### Hi there 👋
+![](./profile-3d-contrib/profile-gitblock.svg)
 <br>
+<div align=center>
 
 🚀 Full-stack wizard by day, caffeine-powered code machine by night! ☕️
 
@@ -111,8 +111,6 @@ Here are some ideas to get you started:
 
 -->
 </div>
-
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 

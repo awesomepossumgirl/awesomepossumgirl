@@ -69,8 +69,6 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=awesomepossumgirl&show_icons=true">
 
-![Dain's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl)
-<br>
 <br>
 
 <p>🏆 Baekjoon solved rank 🏆</p>
@@ -118,4 +116,8 @@ Here are some ideas to get you started:
  - Linux Master
 
 -->
+
+
+![Dain's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl)
+<br>
 </div>

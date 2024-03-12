@@ -66,8 +66,6 @@
 </div>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomepossumgirl&layout=compact">
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=awesomepossumgirl&show_icons=true">
 
 <br>
 
@@ -116,8 +114,8 @@ Here are some ideas to get you started:
  - Linux Master
 
 -->
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=awesomepossumgirl&show_icons=true">
+<br>
 ![Dain's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl)
 <br>
 </div>

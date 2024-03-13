@@ -112,10 +112,10 @@ Here are some ideas to get you started:
  - 컴퓨터활용능력 2급
  - 워드프로세서 단일등급
  - Linux Master
-
--->
 <img src="https://github-readme-stats.vercel.app/api?username=awesomepossumgirl&show_icons=true">
 <br>
 ![Dain's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl)
 <br>
+-->
+
 </div>

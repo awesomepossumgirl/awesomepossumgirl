@@ -1,10 +1,11 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
+  # schedule: # 03:00 JST == 18:00 UTC
+  #  - cron: "0 18 * * *"
+  # workflow_dispatch:
+  workflow_dispatch: # 수동으로만 실행
+  
 jobs:
   build:
     runs-on: ubuntu-latest

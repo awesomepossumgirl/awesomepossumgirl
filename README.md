@@ -49,12 +49,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomepossumgirl&layout=compact">
 
 <br>
+<br>
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awesomepossumgirl1)](https://solved.ac/awesomepossumgirl1)
 </div>
 
+<br>
 <br>
 <div align=center>
 
@@ -70,6 +72,8 @@
 
 🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
 
+<br>
+<br>
 
 
 ![](./profile-3d-contrib/profile-gitblock.svg)

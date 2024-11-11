@@ -44,9 +44,6 @@
 <br>
 
 <div align=center>
-	<p>👉🏻 SNS & Portfolio 👈🏻</p>
-</div>
-<div align=center>
 	<a href="">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" />
 	</a>
@@ -77,17 +74,19 @@
 <br>
 <div align=center>
 
-🚀 Full-stack wizard by day, caffeine-powered code machine by night! ☕️
+🚀 정보처리기사 '24.
 
-👨‍💻 Breaking keyboards and fixing bugs since '23.
+👨‍💻 컴퓨터시스템기사 필기합격, 웹디자인기능사 필기합격, 리눅스마스터2급 '23.
 
-💡 Fluent in Java, Python, JavaScript, and sarcasm. Proficient in turning coffee into code.
+💡 워드프로세서단일등급, 컴퓨터활용능력2급 '20, '19.
 
-🎮 When not coding, you'll find me in the gaming realm, defeating dragons.
+💬 Very Fluent in English / TOEIC 955, TEPS2급 😄
+
+🎮 When not coding, you'll find me in the sports pub, playing dart.
 
 🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
 
-💬 Let's turn coffee into code, errors into lessons, and meetings into memes! 😄
+
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
@@ -112,6 +111,18 @@ Here are some ideas to get you started:
  - 컴퓨터활용능력 2급
  - 워드프로세서 단일등급
  - Linux Master
+
+ 🚀 Full-stack wizard by day, caffeine-powered code machine by night! ☕️
+
+👨‍💻 Breaking keyboards and fixing bugs since '23.
+
+💡 Fluent in Java, Python, JavaScript, and sarcasm. Proficient in turning coffee into code.
+
+🎮 When not coding, you'll find me in the gaming realm, defeating dragons.
+
+🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
+
+💬 Let's turn coffee into code, errors into lessons, and meetings into memes! 😄
 <img src="https://github-readme-stats.vercel.app/api?username=awesomepossumgirl&show_icons=true">
 <br>
 ![Dain's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl)

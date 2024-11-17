@@ -60,17 +60,21 @@
 <br>
 <div align=center>
 
-🚀 정보처리기사 '24.
 
-👨‍💻 컴퓨터시스템기사 필기합격, 웹디자인기능사 필기합격, 리눅스마스터2급 '23.
+
+🚀 정보처리기사 '24. 
+
+👨‍💻 컴퓨터시스템기사 필기합격, 웹디자인기능사 필기합격, 리눅스마스터2급 '23. 
 
 💡 워드프로세서단일등급, 컴퓨터활용능력2급 '20, '19.
 
 💬 Very Fluent in English / TOEIC 955, TEPS2급 😄
 
-🎮 When not coding, you'll find me in the sports pub, playing dart.
+🧞‍♀️ Front-end wizard by day, caffeine-powered code machine by night! ☕️
 
-🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
+🎯 When not coding, you'll find me in the sports pub, playing dart. 
+
+🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum. ✨
 
 <br>
 <br>

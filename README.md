@@ -62,13 +62,13 @@
 
 
 
-🚀 정보처리기사 '24. 
+🚀 정보처리기사('24). 
 
-👨‍💻 컴퓨터시스템기사 필기합격, 웹디자인기능사 필기합격, 리눅스마스터2급 '23. 
+👨‍💻 컴퓨터시스템기사 필기합격, 웹디자인기능사 필기합격, 리눅스마스터2급 ('23). 
 
-💡 워드프로세서단일등급, 컴퓨터활용능력2급 '20, '19.
+💡 워드프로세서단일등급('19), 컴퓨터활용능력2('20).
 
-💬 Very Fluent in English / TOEIC 955, TEPS2급 😄
+💬 Very Fluent in English 
 
 🧞‍♀️ Front-end wizard by day, caffeine-powered code machine by night! ☕️
 

@@ -3,7 +3,7 @@
 </div>
 
 <div>
-	📰 <a href="awesomepossum.tistory.com">블로그</a>
+	📰 블로그 
 
  	📚 네이버 지식인
 

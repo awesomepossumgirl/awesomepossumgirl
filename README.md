@@ -1,6 +1,17 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dain%20Github!&fontSize=90" />
 </div>
+
+<div>
+	안녕하세요.
+	
+	📰 블로그
+
+ 	📚 네이버 지식인
+
+	🌐 개인위키
+</div>
+
 <div align=center>
 	<h3>🧙 Tech Stack 🧙</h3>
 	<br>

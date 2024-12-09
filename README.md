@@ -2,20 +2,20 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dain%20Github!&fontSize=90" />
 </div>
 
-<div>
-	📰 블로그 
-
- 	📚 네이버 지식인
-
-	🌐 개인위키
+<div align=center>
+    📰 <a href="https://awesomepossum.tistory.com">블로그</a><br>
+    📚 <a href="https://kin.naver.com/profile/index.naver?u=eqpeRcAiMURRkE5zNOTm%2BXXnpeokqihCdmSU9RA51EA%3D">네이버 지식인</a><br>
+    🌐 개인위키 
 </div>
+
+
 
 <div align=center>
 	<h3>🧙 Tech Stack 🧙</h3>
 	<br>
 	<p>✨ Languages & Platforms ✨</p>
 </div>
-<div align="center">
+<div align=center>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />

@@ -3,8 +3,6 @@
 </div>
 
 <div>
-	Hi :)
-	
 	📰 <a href="awesomepossum.tistory.com">블로그</a>
 
  	📚 네이버 지식인

@@ -75,7 +75,7 @@
 
 💡 워드프로세서단일등급('19), 컴퓨터활용능력2('20).
 
-💬 Very Fluent in English 
+💬 Very Fluent in English TOEIC 955('22)
 
 🧞‍♀️ Front-end wizard by day, caffeine-powered code machine by night! ☕️
 

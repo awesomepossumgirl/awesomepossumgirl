@@ -4,7 +4,6 @@
 
 <div align=center>
     📰 블로그<br>
-    📚 <a href="https://kin.naver.com/profile/index.naver?u=eqpeRcAiMURRkE5zNOTm%2BXXnpeokqihCdmSU9RA51EA%3D">네이버 지식인</a><br>
     🌐 개인위키 
 </div>
 

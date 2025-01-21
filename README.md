@@ -3,8 +3,8 @@
 </div>
 
 <div align=center>
-    📰 블로그<br>
-    🌐 개인위키 
+    📰<br>
+    🌐
 </div>
 
 
@@ -64,9 +64,14 @@
 
 <br>
 <br>
+
+
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+<!--
+
 <div align=center>
-
-
 
 🚀 정보처리기사('24), SQLDeveloper ('24). 
 
@@ -81,10 +86,6 @@
 <br>
 <br>
 
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-<!--
 **awesomepossumgirl/awesomepossumgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -98,12 +99,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- - TOEIC 955
- - OPIC AL
- - SQL-Developer
- - 정보처리기사
- - 컴퓨터활용능력 2급
- - 워드프로세서 단일등급
  - Linux Master
 
  🚀 Full-stack wizard by day, caffeine-powered code machine by night! ☕️

@@ -78,10 +78,6 @@
 
 🧞‍♀️ Front-end wizard by day, caffeine-powered code machine by night! ☕️
 
-🎯 When not coding, you'll find me in the sports pub, playing dart. 
-
-🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum. ✨
-
 <br>
 <br>
 

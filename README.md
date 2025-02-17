@@ -63,7 +63,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 🔥 My Stats:
 ---
 
-💀 GitHub Stats 💀
+<div align=center> 💀 GitHub Stats 💀 </div>
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomepossumgirl&layout=compact">

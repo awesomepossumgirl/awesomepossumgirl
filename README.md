@@ -22,16 +22,6 @@ Specialized in Java and Web Front-end Development💻 <br>
 - 🌐 Wiki
 <br>
 
-⚡ Certifications:
----
-- TOEIC 955
-- TEPS 2급
-- Linux master 2급
-- SQL Developer
-- 워드프로세서 단일등급
-- 컴퓨터 활용능력 2급
-<br>
-
 ✨ Primary Tech stack:
 ---
 <div>
@@ -84,6 +74,17 @@ Specialized in Java and Web Front-end Development💻 <br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
+
+⚡ Certifications:
+---
+- TOEIC 955
+- TEPS 2급
+- Linux master 2급
+- SQL Developer
+- 워드프로세서 단일등급
+- 컴퓨터 활용능력 2급
+<br>
+
 
 <div align=center>
 

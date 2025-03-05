@@ -9,11 +9,12 @@ I am a Caffeine-powered Code Machine 🧙☕ <br>
 Specialized in Java and Web Front-end Development💻 <br>
 
 
-- 💡 About Me, Caffeien-powered-code Machine
+- 💡 About Me, Caffeien-powered Code Machine
 - 🔥 Passionate about clean code and efficient algorithms
 - 💻 Good in Java, JavaScript, and modern front-end frameworks
-- 🌍 Currently exploring AWS and Linux tech
-- 📚 Enjoy writing tech blogs on Tistory
+- 🌍 Currently exploring AWS and Linux
+- 📚 Enjoy Reading & writing blogs on Tistory
+
 <br>
 
 📫 Contact Me on: (준비중)

@@ -10,7 +10,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 
 - 💡 About Me, Caffeien-powered Code Machine
-- 🔥 Passionate about clean code and efficient algorithms
+- 🔥 Passionate about Movies and Books
 - 💻 Good in Java, JavaScript, and modern front-end frameworks
 - 🌍 Currently exploring AWS and Linux
 - 📚 Enjoy Reading & writing blogs on Tistory

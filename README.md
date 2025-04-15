@@ -69,7 +69,15 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <br>
 <br>
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a8dd7ee5-66bf-41a9-ab3c-7c3cfe6e0da5)
+![image](https://github.com/user-attachments/assets/5483261b-ec97-41fb-8f02-b51619c7e5e8)
+![image](https://github.com/user-attachments/assets/8a107c6b-5324-43c2-b9a3-009f99b6f62f)
+![image](https://github.com/user-attachments/assets/b795fa94-11df-4af8-89d9-a81227467ac7)
+![image](https://github.com/user-attachments/assets/14e1ac05-e185-45d5-9a0a-877d2a7e3f40)
+![image](https://github.com/user-attachments/assets/61728608-c824-445a-9065-5accf329417c)
+![image](https://github.com/user-attachments/assets/9d6a6601-9d6e-4830-8c0b-543f67d2fc29)
+![image](https://github.com/user-attachments/assets/0ab33459-5a01-49db-8fcc-4ff2599e513e)
+![image](https://github.com/user-attachments/assets/88a5c144-188c-4007-8d59-1e8c371019d8)
 
 
 

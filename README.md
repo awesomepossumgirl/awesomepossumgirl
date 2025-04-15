@@ -91,7 +91,7 @@ Specialized in Java and Web Front-end Development💻 <br>
   <img src="https://github.com/user-attachments/assets/0a6377af-5f96-4878-9a03-ff2f23f01e9e" alt="image" width="700" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/678adaca-dd1a-4ba4-a615-aece22b93e7b" alt="image" width="700" />
+  <img src="https://github.com/user-attachments/assets/678adaca-dd1a-4ba4-a615-aece22b93e7b" alt="image" width="600" />
 </p>
 
 

@@ -69,6 +69,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <br>
 <br>
+![Uploading image.png…]()
 
 
 

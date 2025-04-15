@@ -69,9 +69,36 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <br>
 <br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/061b7595-ddb3-4434-9e39-3724fc0cd9ca" alt="image" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9df1f56b-8a6b-4944-a22d-b07834dc5719" alt="image" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b480d9d3-293b-4b1d-b84e-1ffb2d90b0d7" alt="image" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c9ee362-dc16-4ac4-ba73-87d275a4318a" alt="image" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/150131ec-c818-474a-975e-c2155afbde35" alt="image" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee12d1d9-a70b-4c33-b425-e04b967fa519" alt="image" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a6377af-5f96-4878-9a03-ff2f23f01e9e" alt="image" width="700" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/678adaca-dd1a-4ba4-a615-aece22b93e7b" alt="image" width="700" />
+</p>
 
-<img src="![image](https://github.com/user-attachments/assets/061b7595-ddb3-4434-9e39-3724fc0cd9ca)
-" />
+
+
+
+
+
 
 
 

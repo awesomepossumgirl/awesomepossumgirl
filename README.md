@@ -67,6 +67,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awesomepossumgirl1)](https://solved.ac/awesomepossumgirl1)
 </div>
 
+<!--
 <br>
 <br>
 <p align="center">
@@ -93,7 +94,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/678adaca-dd1a-4ba4-a615-aece22b93e7b" alt="image" width="600" />
 </p>
-
+-->
 
 
 

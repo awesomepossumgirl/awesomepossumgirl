@@ -17,9 +17,8 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <br>
 
-📫 Contact Me on: 
+📫 Contact Me on: ✉️ E-Mail, 📰 Tistory blog, 🌐 개인 위키 
 ---
-✉️ E-Mail, 📰 Tistory blog, 🌐 개인 위키 ↓ <br>
 <div>
   <a href="mailto:awesomepossumgirl1@gmail.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" loading="lazy">

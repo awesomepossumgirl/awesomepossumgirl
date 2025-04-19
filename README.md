@@ -20,7 +20,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 📫 Contact Me on: (준비중)
 ---
 - 📰 Tistory blog <br>
-- 🌐 Wiki
+- 🌐 Wiki http://www.dainwiki.com
 <br>
 
 ✨ Primary Tech stack:

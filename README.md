@@ -19,15 +19,17 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 📫 Contact Me on: 
 ---
-✉️ E-Mail ↓
+✉️ E-Mail, 📰 Tistory blog, 🌐 개인 위키 ↓ <br>
 <div>
   <a href="mailto:awesomepossumgirl1@gmail.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" loading="lazy">
   </a>
 </div>
-📰 Tistory blog <br>
-🌐 개인 위키 ↓ 
-<div><a href="http://www.dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;"><img src="https://img.shields.io/badge/Dainwiki-1976D2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy"></a></div>
+<div>
+    <a href="http://www.dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Dainwiki-1976D2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
+    </a>
+</div>
 <br>
 
 ✨ Primary Tech stack:

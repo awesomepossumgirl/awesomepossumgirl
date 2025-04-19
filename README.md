@@ -17,9 +17,9 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <br>
 
-📫 Contact Me on: (준비중)
+📫 Contact Me on: 
 ---
-- 📰 Tistory blog <br>
+📰 Tistory blog <br>
 🌐 개인 위키 ↓ 
 <div><a href="http://www.dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;"><img src="https://img.shields.io/badge/Dainwiki-1976D2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy"></a></div>
 <br>

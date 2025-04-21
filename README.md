@@ -31,7 +31,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <!-- Dainwiki --> 🌐 개인위키
 <div style="text-align: center;">
-  <a href="/http://211.173.120.106/" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+  <a href="http://211.173.120.106/" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Dainwiki-45B6F2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
   </a>
 </div>

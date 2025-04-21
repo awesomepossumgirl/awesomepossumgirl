@@ -17,50 +17,61 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <br>
 
-📫 Contact Me on: ✉️ E-Mail, 📰 Tistory blog, 🌐 개인 위키 
----
-<div>
+
+<div align="center">
+
+<h2>👋🏻 Contact Me on:</h2>
+
+<!-- Gmail --> 📧 Gmail
+<div style="text-align: center; margin-bottom: 10px;">
   <a href="mailto:awesomepossumgirl1@gmail.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" loading="lazy">
   </a>
 </div>
-<div>
-    <a href="http://www.dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Dainwiki-1976D2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
-    </a>
-</div>
-<br>
 
-✨ Primary Tech stack:
----
-<div>
-	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />	
+<!-- Dainwiki --> 🌐 Dainwiki
+<div style="text-align: center;">
+  <a href="http://www.dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Dainwiki-1976D2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
+  </a>
 </div>
+</div>
+
+
+<br>
+<br>
+<div align="center">
+
+✨ **Primary Tech Stack**
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
+</div>
+
+<div align="center">
 	
 <br>
 <br>
 
 🔥 My Stats:
----
 
 <div align=center> 💀 GitHub Stats 💀 </div>
 

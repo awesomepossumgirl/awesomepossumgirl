@@ -38,8 +38,8 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <!-- Tistory Blog --> 👉 블로그
 <div style="text-align: center;">
-  <a href="http://awesomepossumgirl.tistory.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=tistory&logoColor=white" alt="blog" loading="lazy">
+  <a href="http://awesomepossum.tistory.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Tistory-FF4C4C?style=for-the-badge&logo=tistory&logoColor=white" alt="blog" loading="lazy">
   </a>
 </div>
 </div>

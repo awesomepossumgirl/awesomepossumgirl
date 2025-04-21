@@ -25,14 +25,21 @@ Specialized in Java and Web Front-end Development💻 <br>
 <!-- Gmail --> 📧 Gmail
 <div style="text-align: center; margin-bottom: 10px;">
   <a href="mailto:awesomepossumgirl1@gmail.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" loading="lazy">
+    <img src="https://img.shields.io/badge/Gmail-00DBDE?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" loading="lazy">
   </a>
 </div>
 
-<!-- Dainwiki --> 🌐 Dainwiki
+<!-- Dainwiki --> 🌐 개인위키
 <div style="text-align: center;">
   <a href="http://www.dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Dainwiki-1976D2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
+    <img src="https://img.shields.io/badge/Dainwiki-45B6F2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
+  </a>
+</div>
+
+<!-- Tistory Blog --> 👉 블로그
+<div style="text-align: center;">
+  <a href="http://awesomepossumgirl.tistory.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=tistory&logoColor=white" alt="blog" loading="lazy">
   </a>
 </div>
 </div>

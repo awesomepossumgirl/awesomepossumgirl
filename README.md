@@ -142,7 +142,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 - 워드프로세서 단일등급
 - 컴퓨터 활용능력 2급
 <br>
-<!-- Naver 지식 in --> 🎓 네이버지식인
+<!-- Naver 지식 in --> <!--🎓 네이버지식인-->
 <!--
 <div style="text-align: center;">
   <a href="https://kin.naver.com/profile/index.naver?u=eqpeRcAiMURRkE5zNOTm%2BXXnpeokqihCdmSU9RA51EA%3D" target="_blank" rel="noreferrer noopener" style="display: inline-block;">

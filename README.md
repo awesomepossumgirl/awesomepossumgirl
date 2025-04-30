@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dain%20Github!&fontSize=90" />
 </div>
 
-👋 Hello, My name is Dain.
+👋 Hello, Welcome to my Github
 ---
 Hi, there! <br>
 I am a Caffeine-powered Code Machine 🧙☕ <br>

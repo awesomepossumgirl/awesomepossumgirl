@@ -103,6 +103,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 
 <br>
 <br>
+<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/061b7595-ddb3-4434-9e39-3724fc0cd9ca" alt="image" width="700" />
 </p>
@@ -127,6 +128,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/678adaca-dd1a-4ba4-a615-aece22b93e7b" alt="image" width="600" />
 </p>
+-->
 
 
 

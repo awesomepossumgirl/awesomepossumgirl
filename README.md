@@ -43,12 +43,12 @@ Specialized in Java and Web Front-end Development💻 <br>
   </a>
 </div>
 
-<!-- Naver 지식 in --> 🎓 네이버지식인
+<!-- 
 <div style="text-align: center;">
   <a href="https://kin.naver.com/profile/index.naver?u=eqpeRcAiMURRkE5zNOTm%2BXXnpeokqihCdmSU9RA51EA%3D" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Naver-2AE86B?style=for-the-badge&logo=Naver&logoColor=white" alt="NaverInsight" loading="lazy">
   </a>
-</div>
+</div> -->
 </div>
 
 

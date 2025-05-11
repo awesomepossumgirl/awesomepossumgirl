@@ -136,7 +136,7 @@ Specialized in Java and Web Front-end Development💻 <br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
-<!-- Tistory Blog --> 👉 블로그
+Tistory Blog 👉 블로그
 <div style="text-align: center;">
   <a href="http://awesomepossum.tistory.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Tistory-FF4C4C?style=for-the-badge&logo=tistory&logoColor=white" alt="blog" loading="lazy">
@@ -152,48 +152,6 @@ Specialized in Java and Web Front-end Development💻 <br>
 - 컴퓨터 활용능력 2급
 <br>
 
-
-<div align=center>
-
-🚀 정보처리기사('24), SQLDeveloper ('24). 
-
-👨‍💻 전자계산기조직응용기사 필기합격, 웹디자인기능사 필기합격, 리눅스마스터2급 ('23). 
-
-💡 워드프로세서단일등급('19), 컴퓨터활용능력2급('20).
-
-💬 Very Fluent in English TOEIC 955('22)
-
-🧞‍♀️ Front-end wizard by day, caffeine-powered code machine by night! ☕️
-
-<br>
-<br>
-
-**awesomepossumgirl/awesomepossumgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
- - Linux Master
-
- 🚀 Full-stack wizard by day, caffeine-powered code machine by night! ☕️
-
-👨‍💻 Breaking keyboards and fixing bugs since '23.
-
-💡 Fluent in Java, Python, JavaScript, and sarcasm. Proficient in turning coffee into code.
-
-🎮 When not coding, you'll find me in the gaming realm, defeating dragons.
-
-🚴‍♂️ Enthusiastic hiker who believes that a good hiking can solve any coding conundrum.
-
-💬 Let's turn coffee into code, errors into lessons, and meetings into memes! 😄
 <img src="https://github-readme-stats.vercel.app/api?username=awesomepossumgirl&show_icons=true">
 <br>
 ![Dain's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=awesomepossumgirl)

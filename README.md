@@ -29,12 +29,7 @@ Specialized in Java and Web Front-end Development💻 <br>
   </a>
 </div>
 
-<!-- Dainwiki --> 🌐 개인위키
-<div style="text-align: center;">
-  <a href="http://dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Dainwiki-45B6F2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
-  </a>
-</div>
+
 
 
 
@@ -136,6 +131,13 @@ Specialized in Java and Web Front-end Development💻 <br>
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
+🌐 개인위키
+<div style="text-align: center;">
+  <a href="http://dainwiki.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Dainwiki-45B6F2?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Dainwiki" loading="lazy">
+  </a>
+</div>
+
 Tistory Blog 👉 블로그
 <div style="text-align: center;">
   <a href="http://awesomepossum.tistory.com" target="_blank" rel="noreferrer noopener" style="display: inline-block;">

@@ -5,15 +5,7 @@
 👋 Hello, Welcome to my Github
 ---
 Hi, there! <br>
-I am a Caffeine-powered Code Machine 🧙☕ <br>
-Specialized in Java and Web Front-end Development💻 <br>
 
-
-- 💡 Always trying to learn more :)
-- 🔥 Passionate about Movies and Books
-- 💻 Good in Java, JavaScript, and modern front-end frameworks
-- 🌍 Currently exploring AWS and Linux
-- 📚 Enjoy Reading & writing blogs on Tistory
 
 <br>
 
